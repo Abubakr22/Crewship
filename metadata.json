@@ -1,0 +1,7 @@
+{
+  "name": "Crewship",
+  "description": "A platonic and professional networking app for teens to find study buddies, project partners, and friends based on shared interests and goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
